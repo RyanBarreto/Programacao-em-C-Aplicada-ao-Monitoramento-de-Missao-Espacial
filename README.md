@@ -1,4 +1,4 @@
-#Explicação da lógica utilizada
+# Explicação da lógica utilizada
 
 
 O código desenvolvido tem como objetivo simular um sistema básico de monitoramento de uma missão espacial, utilizando a linguagem C. A lógica do programa foi construída para permitir que o usuário insira informações importantes da nave, visualize o estado atual da missão, execute análises automáticas dos dados e consulte um pequeno histórico de temperaturas registradas. O sistema funciona de forma interativa através de um menu principal, permitindo que as funcionalidades sejam acessadas repetidamente até que o usuário escolha encerrar a execução do programa.
